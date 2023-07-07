@@ -9,6 +9,7 @@ To go through the following interest rate models.
 * Cox-Ingersoll-Ross (CIR) Model
 * Heath-Jarrow-Morton (HJM) Model
 * Hull-White Model
+
 For each model, do the following : 
 * Plot the forward curve using the above Models
 * Back test the model
