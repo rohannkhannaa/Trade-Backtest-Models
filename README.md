@@ -5,14 +5,15 @@ College : IIT Ropar
 
 Assignment Details : (By Futures First)
 To go through the following interest rate models. 
-Vasicek Model
-Cox-Ingersoll-Ross (CIR) Model
-Heath-Jarrow-Morton (HJM) Model
-Hull-White Model
-1.Plot the forward curve using the above Models
-2.Back test the model
-3.To generate trading signals; How can we improve trading signals from the model. 
-4.Why the model is different from the other model and How it is better than the other model.
+* Vasicek Model
+* Cox-Ingersoll-Ross (CIR) Model
+* Heath-Jarrow-Morton (HJM) Model
+* Hull-White Model
+For each model, do the following : 
+* Plot the forward curve using the above Models
+* Back test the model
+* To generate trading signals; How can we improve trading signals from the model.
+* Why the model is different from the other model and How it is better than the other model.
 
 So for each model, here a python file is given.
 To run this code, please make sure : 
